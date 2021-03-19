@@ -1,7 +1,7 @@
 # Code-Refactor
 
 ## Site Picture
-![Site] (Site Picture.png)
+![Image](SitePicture.png)
 
 ## Technologies Used
     - Html - Used to create elements on the DOM
@@ -10,9 +10,10 @@
     - GitHub - hosts repository that can be deployed to GitHub Pages
 
 ## Summary
-
+  Refactored code. Condensed tags in the style.css file. Added semantic tags to HTML.
 
 ## Code Snippet
+Here is a snippet from the html for the header of the site.
 ```html
 <body>
   <header class="header">
@@ -33,5 +34,5 @@
 ```
 
 ## Author Links
-[LinkedIn](https://www.linkedin.com/in/liamsctewart/)
+[LinkedIn](https://www.linkedin.com/in/liamsctewart/)<br>
 [Github](https://github.com/LiamStewart8)
