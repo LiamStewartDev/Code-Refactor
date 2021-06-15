@@ -13,11 +13,8 @@
   Refactored code. Condensed tags in the style.css file. Added semantic tags to HTML.
 
 ## Code Snippet
-Here is a snippet from the html for the header of the site.
+Here is a snippet from the html for the navbar on the page.
 ```html
-<body>
-  <header class="header">
-    <h1>Hori<span class="seo">seo</span>n</h1>
     <nav>
       <ul>
         <li>
